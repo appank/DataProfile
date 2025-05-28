@@ -95,3 +95,17 @@ D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\refint\DataProfile.dll
 D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\DataProfile.pdb
 D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\DataProfile.genruntimeconfig.cache
 D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\ref\DataProfile.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\EPPlus.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\EPPlus.Interfaces.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\EPPlus.System.Drawing.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\Rotativa.AspNetCore.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tesrrekuitmen\DataProfile\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\DataProfile.csproj.AssemblyReference.cache
+D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\DataProfile.MvcApplicationPartsAssemblyInfo.cs
+D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\DataProfile.sourcelink.json
+D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\compressed\0lfrmp4mma-w25v45g9f1.gz
+D:\tesrrekuitmen\DataProfile\obj\Debug\net9.0\DataProf.3939FCB3.Up2Date

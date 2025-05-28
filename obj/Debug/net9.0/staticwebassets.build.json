@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7cxutrHc7ADZTRJcZTdBV4ort/j/TblW0O4QmqRen2c=",
+  "Hash": "ltOpSvRa++Fn+XJCevCZNb+WhrsH1Ys1P63IxsFBBt0=",
   "Source": "DataProfile",
   "BasePath": "_content/DataProfile",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "D:\\tesrrekuitmen\\DataProfile\\obj\\Debug\\net9.0\\compressed\\0lfrmp4mma-w25v45g9f1.gz",
+      "SourceId": "DataProfile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\tesrrekuitmen\\DataProfile\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DataProfile",
+      "RelativePath": "Rotativa/wkhtmltox#[.{fingerprint=w25v45g9f1}]?.dll.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltox.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "68q79wxpny",
+      "Integrity": "egara3odiHPS4C0XD4gUZAo8VeS+Zn+MhI/P8rTvuOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltox.dll"
     },
     {
       "Identity": "D:\\tesrrekuitmen\\DataProfile\\obj\\Debug\\net9.0\\compressed\\0rha2pm8zo-notf2xhcfb.gz",
@@ -2724,6 +2745,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltoimage.exe",
+      "SourceId": "DataProfile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\",
+      "BasePath": "_content/DataProfile",
+      "RelativePath": "Rotativa/wkhtmltoimage#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "unmdmt38q6",
+      "Integrity": "BrLMDmZWAoyvWZdnLfVxd1GGQMOeCnyqIdFntxs5+xs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltoimage.exe"
+    },
+    {
+      "Identity": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "DataProfile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\",
+      "BasePath": "_content/DataProfile",
+      "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jhzul28502",
+      "Integrity": "2bPSyBSW6Lulzfa832+D48S2LRVHoQhrw4xqa/GryGk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Identity": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltox.dll",
+      "SourceId": "DataProfile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\",
+      "BasePath": "_content/DataProfile",
+      "RelativePath": "Rotativa/wkhtmltox#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w25v45g9f1",
+      "Integrity": "iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltox.dll"
     }
   ],
   "Endpoints": [
@@ -21878,6 +21962,468 @@
         {
           "Name": "integrity",
           "Value": "sha256-JKWeHUaANNuffeRatdc54UCb84RoxjEw/nTq8Mops8Y="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltoimage.exe",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltoimage.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30184960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrLMDmZWAoyvWZdnLfVxd1GGQMOeCnyqIdFntxs5+xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrLMDmZWAoyvWZdnLfVxd1GGQMOeCnyqIdFntxs5+xs="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltoimage.unmdmt38q6.exe",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltoimage.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30184960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrLMDmZWAoyvWZdnLfVxd1GGQMOeCnyqIdFntxs5+xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "unmdmt38q6"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltoimage.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrLMDmZWAoyvWZdnLfVxd1GGQMOeCnyqIdFntxs5+xs="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.exe",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30235648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2bPSyBSW6Lulzfa832+D48S2LRVHoQhrw4xqa/GryGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2bPSyBSW6Lulzfa832+D48S2LRVHoQhrw4xqa/GryGk="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.jhzul28502.exe",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30235648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2bPSyBSW6Lulzfa832+D48S2LRVHoQhrw4xqa/GryGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jhzul28502"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltopdf.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2bPSyBSW6Lulzfa832+D48S2LRVHoQhrw4xqa/GryGk="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltox.dll",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\obj\\Debug\\net9.0\\compressed\\0lfrmp4mma-w25v45g9f1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000000082798"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12077539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"egara3odiHPS4C0XD4gUZAo8VeS+Zn+MhI/P8rTvuOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltox.dll",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltox.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30098944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltox.dll.gz",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\obj\\Debug\\net9.0\\compressed\\0lfrmp4mma-w25v45g9f1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12077539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"egara3odiHPS4C0XD4gUZAo8VeS+Zn+MhI/P8rTvuOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-egara3odiHPS4C0XD4gUZAo8VeS+Zn+MhI/P8rTvuOI="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltox.w25v45g9f1.dll",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\obj\\Debug\\net9.0\\compressed\\0lfrmp4mma-w25v45g9f1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000000082798"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12077539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"egara3odiHPS4C0XD4gUZAo8VeS+Zn+MhI/P8rTvuOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w25v45g9f1"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltox.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltox.w25v45g9f1.dll",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltox.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30098944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w25v45g9f1"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltox.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iNxZZXLKktPxM/H7DLlXJX1yLDrALZChCToBLvGVq/s="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltox.w25v45g9f1.dll.gz",
+      "AssetFile": "D:\\tesrrekuitmen\\DataProfile\\obj\\Debug\\net9.0\\compressed\\0lfrmp4mma-w25v45g9f1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12077539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"egara3odiHPS4C0XD4gUZAo8VeS+Zn+MhI/P8rTvuOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Jun 2020 20:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w25v45g9f1"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltox.dll.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-egara3odiHPS4C0XD4gUZAo8VeS+Zn+MhI/P8rTvuOI="
         }
       ]
     }

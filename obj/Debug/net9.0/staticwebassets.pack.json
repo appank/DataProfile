@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\DataProfile.mtoqgmf2ys.bundle.scp.css"
     },
     {
+      "Id": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltoimage.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltoimage.exe"
+    },
+    {
+      "Id": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\Rotativa\\wkhtmltox.dll",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltox.dll"
+    },
+    {
       "Id": "D:\\tesrrekuitmen\\DataProfile\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
