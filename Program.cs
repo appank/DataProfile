@@ -1,9 +1,11 @@
-
-using Rotativa.AspNetCore; 
-using System.IO;           
+using Rotativa.AspNetCore;
+using System.IO;       
+using DataProfile.DataAccessLayer;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IProfileRepository, ProfileRepository>(); 
 
 var app = builder.Build(); 
 
